@@ -1,0 +1,25 @@
+.logo {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.logo.large {
+  height: 36px;
+  width: 232px;
+}
+
+.logo.medium {
+  height: 32px;
+  width: 200px;
+}
+
+.logo.jumbo {
+  height: 126px;
+  width: 758px;
+}
+
+.logo.small {
+  height: 20px;
+  width: 120px;
+}

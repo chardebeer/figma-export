@@ -1,0 +1,285 @@
+.my-basket {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.my-basket .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 698px;
+  position: relative;
+  width: 375px;
+}
+
+.my-basket .overlap-group {
+  height: 552px;
+  left: 0;
+  position: absolute;
+  top: 146px;
+  width: 375px;
+}
+
+.my-basket .cart {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 0;
+  padding: 0px 24px;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.my-basket .card-horizontal {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  position: relative;
+}
+
+.my-basket .image {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/ac7a4a0fdde4d2715c3c1fb1cce4e4ee/img/image-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 124px;
+  min-width: 124px;
+  position: relative;
+}
+
+.my-basket .item-info {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+.my-basket .name-and-price {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.my-basket .item-name {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: -0.16px;
+  line-height: 25.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.my-basket .element-qty {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.16px;
+  line-height: 25.6px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.my-basket .card-horizontal-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  position: relative;
+}
+
+.my-basket .image-2 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/ac7a4a0fdde4d2715c3c1fb1cce4e4ee/img/image-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 124px;
+  min-width: 124px;
+  position: relative;
+}
+
+.my-basket .item-info-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+.my-basket .name-and-price-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.my-basket .item-name-2 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: -0.16px;
+  line-height: 25.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.my-basket .element-qty-2 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.16px;
+  line-height: 25.6px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.my-basket .card-horizontal-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  position: relative;
+}
+
+.my-basket .image-3 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/ac7a4a0fdde4d2715c3c1fb1cce4e4ee/img/image@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 124px;
+  min-width: 124px;
+  position: relative;
+}
+
+.my-basket .item-info-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+.my-basket .name-and-price-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.my-basket .item-name-3 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: -0.16px;
+  line-height: 25.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.my-basket .element-qty-3 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.16px;
+  line-height: 25.6px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.my-basket .checkout-overlay {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 0;
+  padding: 0px 24px 24px;
+  position: absolute;
+  top: 405px;
+  width: 375px;
+}
+
+.my-basket .rectangle {
+  align-self: stretch;
+  background-color: #000000;
+  height: 1px;
+  min-width: 327px;
+  position: relative;
+}
+
+.my-basket .frame-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.my-basket .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.16px;
+  line-height: 25.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-basket .text-wrapper-3 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.16px;
+  line-height: 25.6px;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-basket .h-1 {
+  color: #000000;
+  font-family: "Newsreader", Helvetica;
+  font-size: 48px;
+  font-weight: 300;
+  left: 87px;
+  letter-spacing: -0.96px;
+  line-height: 57.6px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+}

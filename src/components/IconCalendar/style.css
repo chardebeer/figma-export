@@ -1,0 +1,13 @@
+.icon-calendar {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.icon-calendar .icon {
+  height: 18px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}

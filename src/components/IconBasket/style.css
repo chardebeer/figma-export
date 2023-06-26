@@ -1,0 +1,13 @@
+.icon-basket {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.icon-basket .union {
+  height: 18px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}

@@ -1,0 +1,23 @@
+.m-primary-nav {
+  align-items: center;
+  display: flex;
+  height: 64px;
+  justify-content: space-between;
+  padding: 14px 24px;
+  position: relative;
+  width: 375px;
+}
+
+.m-primary-nav .icon-hamburger {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.m-primary-nav .hamburger {
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  top: 6px;
+  width: 18px;
+}
